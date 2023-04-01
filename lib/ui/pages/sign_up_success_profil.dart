@@ -9,7 +9,6 @@ class SignUpSuccessProfillPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       // 1. Buatlah warna dari si Backgoundnya
-      backgroundColor: lightbacgroundColor,
       // 2. Buat widget body di bungkus Center Agar dia di tengah
       body: Center(
         // 3. Baru  kita bikin Colom

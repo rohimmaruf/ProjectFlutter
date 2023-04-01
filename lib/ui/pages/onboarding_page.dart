@@ -34,7 +34,6 @@ class _OnboardingPageState extends State<OnboardingPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: lightbacgroundColor,
       body: Center(
         child: Column(
           // Membuat gambar menjadi ditengah
